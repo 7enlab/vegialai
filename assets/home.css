@@ -8,7 +8,7 @@
 .content li{margin-bottom:6px}
 .content img{max-width:100%;height:auto;border-radius:12px}
 .content figure.lead{margin:0 0 24px}
-.content figure.lead img{width:100%;border-radius:16px;box-shadow:0 8px 24px rgba(0,0,0,.10)}
+.content figure.lead img{width:100%;aspect-ratio:16/10;object-fit:cover;border-radius:16px;box-shadow:0 8px 24px rgba(0,0,0,.10)}
 .content figure.lead figcaption{font-size:14px;color:#6b7280;margin-top:8px}
 @media(max-width:640px){.content h1{font-size:28px}.content h2{font-size:21px}}
 
