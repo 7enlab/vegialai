@@ -8,8 +8,17 @@
 .content li{margin-bottom:6px}
 .content img{max-width:100%;height:auto;border-radius:12px}
 .content figure.lead{margin:0 0 24px}
-.content figure.lead img{width:100%;aspect-ratio:16/10;object-fit:cover;border-radius:16px;box-shadow:0 8px 24px rgba(0,0,0,.10)}
-.content figure.lead figcaption{font-size:14px;color:#6b7280;margin-top:8px}
+.content figure.lead img{width:100%;aspect-ratio:16/9;object-fit:cover;border-radius:16px;box-shadow:0 8px 24px rgba(0,0,0,.10)}
+.content figure.lead figcaption{font-size:14px;color:#6b7280;margin-top:8px;text-align:center}
+.content table{width:100%;border-collapse:separate;border-spacing:0;margin:20px 0;font-size:15px;line-height:1.55;border:1px solid #e5e5e0;border-radius:12px}
+.content thead th{background:#0E5A63;color:#fff;font-weight:700;text-align:left;padding:12px 14px}
+.content thead th:first-child{border-radius:11px 0 0 0}
+.content thead th:last-child{border-radius:0 11px 0 0}
+.content tbody td{padding:11px 14px;border-top:1px solid #e5e5e0;vertical-align:top}
+.content tbody tr:nth-child(even) td{background:#f6f6f3}
+.content tbody tr:last-child td:first-child{border-radius:0 0 0 11px}
+.content tbody tr:last-child td:last-child{border-radius:0 0 11px 0}
+@media(max-width:640px){.content table{font-size:14px}.content thead th,.content tbody td{padding:9px 10px}}
 @media(max-width:640px){.content h1{font-size:28px}.content h2{font-size:21px}}
 
 .brand{display:flex;align-items:center;gap:10px}
