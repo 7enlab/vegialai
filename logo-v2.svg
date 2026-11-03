@@ -1,5 +1,2 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100" role="img"><title>vegialai biểu tượng</title>
-<path d="M8 76 L36 34 L52 56 L66 42 L92 76" fill="none" stroke="#0E5A63" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
-<circle cx="72" cy="26" r="11" fill="#C2552E"/>
-<path d="M16 90 Q48 84 84 74" fill="none" stroke="#C2552E" stroke-width="6" stroke-linecap="round"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100" role="img"><title>vegialai symbol</title>
+<rect width="100" height="100" rx="22" fill="#0C4A6E"/><clipPath id="v"><rect width="100" height="100" rx="22"/></clipPath><g clip-path="url(#v)"><circle cx="72" cy="30" r="12" fill="#FBBF24"/><path d="M0 76 L22 38 L40 62 L58 30 L100 76 Z" fill="#15803D"/><path d="M58 30 L50 44 L58 40 L65 46 Z" fill="#fff"/><path d="M8 80 L16 60 L24 80 Z M22 80 L31 56 L40 80 Z M68 80 L77 58 L86 80 Z" fill="#052E16"/><path d="M0 80 Q12 72 25 80 T50 80 T75 80 T100 80 V100 H0 Z" fill="#38BDF8"/><path d="M0 91 Q12 85 25 91 T50 91 T75 91 T100 91 V100 H0 Z" fill="#fff"/></g></svg>
